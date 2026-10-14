@@ -7,7 +7,7 @@ je branche l'IA sur vos vrais outils et vos équipes l'utilisent vraiment.
 
 <p align="center">
   <a href="https://www.enys.dev"><img src="https://img.shields.io/badge/enys.dev-8B1538?style=flat-square&logo=googlechrome&logoColor=white" alt="enys.dev"></a>
-  <a href="https://www.linkedin.com/in/enys-tchenar-5b7312311"><img src="https://img.shields.io/badge/LinkedIn-14101a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/enystchenar"><img src="https://img.shields.io/badge/LinkedIn-14101a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.malt.fr/profile/enystchenar1"><img src="https://img.shields.io/badge/Malt-14101a?style=flat-square&logoColor=white" alt="Malt"></a>
   <a href="https://www.youtube.com/@Enyssss"><img src="https://img.shields.io/badge/YouTube-14101a?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:e.tchenar@gmail.com"><img src="https://img.shields.io/badge/Contact-C41E5E?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
@@ -61,4 +61,4 @@ je branche l'IA sur vos vrais outils et vos équipes l'utilisent vraiment.
 
 Un projet d'agent IA, de site ou de logiciel métier ? Réponse en moins de 24 h.
 
-**[→ enys.dev](https://www.enys.dev)** · [Malt](https://www.malt.fr/profile/enystchenar1) · [LinkedIn](https://www.linkedin.com/in/enys-tchenar-5b7312311) · e.tchenar@gmail.com
+**[→ enys.dev](https://www.enys.dev)** · [Malt](https://www.malt.fr/profile/enystchenar1) · [LinkedIn](https://www.linkedin.com/in/enystchenar) · e.tchenar@gmail.com
